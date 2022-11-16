@@ -1,6 +1,4 @@
 import requests
-import boto3
-from boto import S3
 import os
 import json
 
